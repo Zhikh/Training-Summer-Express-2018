@@ -1,11 +1,11 @@
 # Training.-Spring-2018
-Репозиторий внешнего тренинга "Developing ASP.NET MVC web applications" (весна 2018)
+Репозиторий внешнего тренинга "Developing ASP.NET MVC web applications". Summer Express 2018
 
 ### Место проведения занятий - Купревича 1-5,  комната 224.
 ### Дни и время проведения занятий
-- Понедельник 8.30 - 12.00
-- Вторник 8.30 - 12.00
-- Пятница 8.30 - 12.00
+- Понедельник 8.30 - 13.00
+- Вторник 8.30 - 13.00
+- Четверг 8.30 - 13.00
 
 ## Дополнительная информация
 **[EPAM RD Training "DEVELOPING ASP.NET MVC WEB APPLICATIONS" Repository (C# and .NET Framework Basics part) by .NET Lab.](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules)**

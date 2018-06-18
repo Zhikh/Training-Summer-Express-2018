@@ -1,16 +1,19 @@
-# Training.-Spring-2018
+# Training.-Spring-2018 
 Репозиторий внешнего тренинга "Developing ASP.NET MVC web applications". Summer Express 2018
+
+## Продолжительность тренинга 25.06.2018 - 21.09.2018
 
 ### Место проведения занятий - Купревича 1-5,  комната 224.
 ### Дни и время проведения занятий
 - Понедельник 8.30 - 13.00
 - Вторник 8.30 - 13.00
+- Среда 8.30 - 13.00 (дополнительно оговаривается)
 - Четверг 8.30 - 13.00
 
 ## Дополнительная информация
 **[EPAM RD Training "DEVELOPING ASP.NET MVC WEB APPLICATIONS" Repository (C# and .NET Framework Basics part) by .NET Lab.](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules)**
 
-- *Выслать на электронный адрес anzhelika.kravchuk@gmail.com письмо с указанием своего gmail-acc (названного по шаблону firstname.lastname@gmail.com) и github-acc.*
+- *Выслать на электронный адрес anzhelika.kravchuk@gmail.com письмо с указанием своего gmail-acc (названного по шаблону firstname.lastname@gmail.com (в случае существования "адекватного" аккаунта не обязательно)) и github-acc.*
 - *Установить IDE Visual Studio Community 2017 (**англоязычную версию**).*
 - *Установить [StyleCop](https://github.com/AnzhelikaKravchuk/Training.-Spring-2018/blob/master/Day%201/Settings.StyleCop)*.
 - *Установить [LINQPad](http://www.linqpad.net/)*.

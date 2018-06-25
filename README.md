@@ -1,4 +1,4 @@
-# Training.-Spring-2018 
+# Training.-Summer-2018 
 Репозиторий внешнего тренинга "Developing ASP.NET MVC web applications". Summer Express 2018
 
 ## Продолжительность тренинга 25.06.2018 - 21.09.2018

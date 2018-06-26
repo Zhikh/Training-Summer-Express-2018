@@ -11,6 +11,6 @@
 ## Презентация 
 [draft version](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M1.%20Introduction%20to%20the%20C%23%20Language%20and%20the%20.NET%20Framework/Introduction%20to%20the%20C%23%20Language%20and%20the%20.NET%20Framework%20(draft).pdf)
 
-## Задачи (deadline )
+## Задачи (deadline - 26.06.2018, 24.00)
 - Cоздать многофайловую сборку. Назначить сборке строе имя. Поместить сборку в GAC. Проанализировать полученную сборку с помощью ILDASM, JetBrains dotPeek. [Примеры в помощь](https://drive.google.com/drive/u/0/folders/0B7WmjuqYed3AWXFzc1Mtcnk3d1k)
 - Реализовать методы быстрой сортировки и сортировки слиянием для целочисленного массива (тип проекта Class Library). Протестировать работу методов с использование тестового фреймворка MS Tests.

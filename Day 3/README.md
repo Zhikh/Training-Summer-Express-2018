@@ -10,5 +10,4 @@
 
 - [#1](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M3.%20Creating%20types%20in%20C%23)
 - [#5](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M2.%20Basic%20Coding%20in%20C%23)
-- не забыть про задачи [здесь](https://github.com/AnzhelikaKravchuk/Training.-Spring-2018/blob/master/Day%202/README.md)!
 - выполнить сравнительный анализ скорости вычислений для реализаций алгоритмов с использованием строк и операции целочисленного деления для задачи [#6](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M2.%20Basic%20Coding%20in%20C%23)

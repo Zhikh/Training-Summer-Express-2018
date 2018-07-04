@@ -6,4 +6,7 @@
 
 ## Материалы (презентация)
 - [Methods in details](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M4.%20Methods%20in%20details)
-- [LINQPad примеры](https://drive.google.com/drive/u/0/folders/1Q4QQVPfk7HTa2WsJ9w-Q1aj-iSV5v0RX)
+- [LINQPad примеры](https://drive.google.com/drive/u/0/folders/1L4i-cL27xBQSlVcdzzx6PnCiUyzlwMfW)
+
+## Задачи
+- [#1](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M4.%20Methods%20in%20details)

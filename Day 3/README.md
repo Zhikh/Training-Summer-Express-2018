@@ -6,8 +6,10 @@
 - [Methods in details](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M4.%20Methods%20in%20details)
 - [LINQPad примеры](https://drive.google.com/drive/u/0/folders/10zqkW8GcxFdp8YKxi6LamVV3oRXQAqo9)
 
-## Задачи (deadline 18.03.2018, 21.00)
-
-- [#1](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M3.%20Creating%20types%20in%20C%23) 
-- не забыть про задачи [здесь](https://github.com/AnzhelikaKravchuk/Training.-Spring-2018/blob/master/Day%202/README.md)!
-- выполнить сравнительный анализ скорости вычислений для реализаций алгоритмов с использованием строк и операции целочисленного деления для задачи [#6](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M2.%20Basic%20Coding%20in%20C%23)
+## Задачи
+- Внести правки по выполненным ранее задачам с учетом замечаний.
+- Протестировать методы сортировки (задания первого дня) на массивах большой размерности. (deadline 30.06.2018, 24.00)
+- [#1](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M3.%20Creating%20types%20in%20C%23) (deadline 30.06.2018, 24.00)
+- [#5](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M2.%20Basic%20Coding%20in%20C%23) (deadline 02.06.2018, 24.00)
+- выполнить сравнительный анализ скорости вычислений для реализаций алгоритмов с использованием строк и операции целочисленного деления для задачи [#6](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M2.%20Basic%20Coding%20in%20C%23) на массивах большой размерности с большим количеством элементов порядка int.MaxValue. (deadline 02.06.2018, 24.00)
+- [#2](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M4.%20Methods%20in%20details) (deadline 02.06.2018, 24.00)

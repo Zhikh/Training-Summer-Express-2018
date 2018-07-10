@@ -7,7 +7,7 @@
   - *Chapter 14.* Chars, Strings, and Working with Text.
 
 ## Материалы (презентация)
-- [здесь](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M6.%20Encapsulation.%20Inheritance.%20Polymorphism)
+- [здесь](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/blob/master/M2.%20Basic%20Coding%20in%20C%23/M2.%20Basic%20Coding%20in%20C%23%207.0.pdf)
 - [LINQPad](https://drive.google.com/drive/u/0/folders/1J1jn8mVUlTxptogrdYmYKAYuom12Dq1t)
 
 ## Задачи (deadline - 11.07.2018, 16.00)

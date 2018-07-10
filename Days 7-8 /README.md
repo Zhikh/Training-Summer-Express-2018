@@ -1,6 +1,5 @@
 ## Читать
 - [здесь](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M6.%20Encapsulation.%20Inheritance.%20Polymorphism)
-- 
 
 ## Материалы (презентация)
 - [здесь](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M6.%20Encapsulation.%20Inheritance.%20Polymorphism)

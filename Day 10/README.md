@@ -4,7 +4,7 @@
 
 ![](https://github.com/AnzhelikaKravchuk/Training-Summer-Express-2018/blob/master/Day%2010/Maze.png)
 
-используется 
+используется матрица
 
              {
                 { -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1 },

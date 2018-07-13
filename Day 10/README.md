@@ -4,6 +4,6 @@
 
 ![](https://github.com/AnzhelikaKravchuk/Training-Summer-Express-2018/blob/master/Day%2010/Maze.png)
 
-используется тест-кейс sourceData[2]. Реализовать алгоритм прохождения данного лабиринта (поместить решение в проект MazeLibrary.dll). Протестировать построенный алгоритм на предложенных тест-кейсах (проект MazeLibrary.Tests.dll).
+используется тест-кейс sourceData[2]. Реализовать алгоритм прохождения данного лабиринта (поместить решение в проект [MazeLibrary.dll](https://github.com/AnzhelikaKravchuk/ExtTraining.Summer.2018.1)). Протестировать построенный алгоритм на предложенных тест-кейсах (проект [MazeLibrary.Tests.dll](https://github.com/AnzhelikaKravchuk/ExtTraining.Summer.2018.1)).
 
 - **Предложить альтернативную модель для решения поставленной задачи.**

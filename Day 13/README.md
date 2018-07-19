@@ -3,7 +3,7 @@
 
 ## Материалы (презентация)
 - [Delegates. Lambdas and Events](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M9.%20Delegates.%20Lambdas%20and%20Events)
-- [LINQPad](https://drive.google.com/drive/u/0/folders/1fLIy7z2iGrsxRucOh471Kgqvory9O7Nc)
+- [LINQPad](https://drive.google.com/drive/u/0/folders/1mK_VDF-V8U7B2sGUQxro0qKLFaEbWl3o)
 
 ## Задачи (deadline 19.07.2018, 24.00)
 1. Выполнить рефакторинг класса (с целью сокращения повторного кода) в [алгоритмах Евклида](https://github.com/AnzhelikaKravchuk/Training.-Spring-2018/tree/master/Day%205) (рефакторинг возможен только в случае, когда все метод находятся в одном классе!). **Интерфейс класса измениться не должен.** Проверить работу существующих модульных тестов.

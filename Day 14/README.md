@@ -8,7 +8,7 @@
 - [LINQPad Delegates. Lambdas and Events](https://drive.google.com/drive/u/0/folders/1fLIy7z2iGrsxRucOh471Kgqvory9O7Nc)
 - [LINQPad Generics and Collections](https://drive.google.com/drive/u/0/folders/14XCs9pyHWwf7oV25JkG9umZYstxT8OS8)
 
-## [Streams and IO](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M13.%20Streams%20and%20IO)
+## [Streams and IO!](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M13.%20Streams%20and%20IO)
 
 ## Задачи (deadline 12.04.2018, 18.00)
 1. [Task](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M13.%20Streams%20and%20IO)

@@ -5,7 +5,7 @@
 ## Материалы (презентация)
 - [Delegates. Lambdas and Events](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M9.%20Delegates.%20Lambdas%20and%20Events)
 - [Generics and Collections](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M10.%20Generics%20and%20Collections)
-- [LINQPad Delegates. Lambdas and Events](https://drive.google.com/drive/u/0/folders/1fLIy7z2iGrsxRucOh471Kgqvory9O7Nc)
+- [LINQPad Delegates. Lambdas and Events](https://drive.google.com/drive/u/0/folders/1mK_VDF-V8U7B2sGUQxro0qKLFaEbWl3o)
 - [LINQPad Generics and Collections](https://drive.google.com/drive/u/0/folders/14XCs9pyHWwf7oV25JkG9umZYstxT8OS8)
 
 ## [Streams and IO!](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M13.%20Streams%20and%20IO)

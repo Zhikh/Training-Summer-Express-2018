@@ -8,7 +8,8 @@
 
 ## Материалы (презентация)
 - [Generics and Collections](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M10.%20Generics%20and%20Collections)
-- [LINQPad Generics and Collections](https://drive.google.com/drive/u/0/folders/1hnixc0qkILYSvmikBzAu3iWRWH3Xj6Hh)
+- [LINQ](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M11.%20Introduction%20to%20Language%20Integrated%20Query%20(LINQ))
+- [LINQPad Generics and Collections](https://drive.google.com/drive/u/0/folders/1Jn7byrj6lMiV-tKuMdA-_p3JoiEgWf9N)
 
 ## Задачи 
 1. **(deadline - 26.07.2018, 24.00)** Разработать обобщенный класс-коллекцию BinarySearchTree (бинарное дерево поиска). Предусмотреть возможности использования подключаемого интерфейса для реализации отношения порядка. Реализовать три способа обхода дерева: прямой (preorder), поперечный (inorder), обратный (postorder): для реализации использовать блок-итератор (yield). Протестировать разработанный класс, используя следующие типы:

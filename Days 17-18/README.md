@@ -7,7 +7,7 @@
 
 
 ## Материалы (презентация)
-- [Принципы проектирования](https://drive.google.com/drive/u/0/folders/1ycAPdDl9y3fYsQrUCAP58f5h7fWpOeRV)
+- [Принципы проектирования](https://drive.google.com/drive/u/0/folders/1cVh2C-TJclJU7XFLLCUxbGxLwb02Aejl)
 - [LSP](https://drive.google.com/drive/u/0/folders/1cVh2C-TJclJU7XFLLCUxbGxLwb02Aejl)
 - [LINQPad](https://drive.google.com/drive/u/0/folders/1cVh2C-TJclJU7XFLLCUxbGxLwb02Aejl)
 - [Примеры использования Moq (к статье выше)](https://drive.google.com/drive/u/0/folders/1nuD42hcc84zDm2wea43gPjcdDrD3YwM5)

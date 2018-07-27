@@ -30,7 +30,7 @@
  
     Работу классов продемонстрировать на примере консольного приложения. 
   
-    Для организации классов и интерфейсов использовать “The Stairway pattern” (“заготовка” в архиве [AccountSystemDemo.7z](https://github.com/AnzhelikaKravchuk/Training.-Spring-2018/blob/master/Day%2017/AccountSystemDemo.7z)). 
+    Для организации классов и интерфейсов использовать “The Stairway pattern” (“заготовка” в архиве [AccountSystemDemo.7z](https://github.com/AnzhelikaKravchuk/Training-Summer-Express-2018/tree/master/Days%2017-18)). 
   
     Для разрешения зависимостей использовать Ninject- фреймворк.
     

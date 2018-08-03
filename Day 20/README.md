@@ -23,7 +23,7 @@
 ## Задачи (deadline - 03.07.2018)
   В текстовом файле построчно хранится информация об URL-адресах, представленных в виде
   
-  ![Scheme](https://github.com/AnzhelikaKravchuk/Training.-Spring-2018/blob/master/Pictures/Scheme.png)
+  ![Scheme](https://github.com/AnzhelikaKravchuk/Training-Summer-Express-2018/blob/master/Pictures/Scheme.png)
 
 где сегмент parameters - это набор пар вида key=value, при этом сегменты URL‐path и parameters  или сегмент parameters могут отсутствовать. 
 Разработать систему типов (руководствоваться принципами SOLID) для экспорта данных, полученных на основе разбора информации текстового файла, в XML-документ по следующему правилу, например, для текстового файла с URL-адресами 

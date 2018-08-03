@@ -8,7 +8,7 @@
 ## Материалы (презентация)
 - [XML Technologies](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M14.%20XML%20Technologies)
 - [Serialization](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M15.%20Serialization)
-- [google drive](https://drive.google.com/drive/u/0/folders/1VdIJ58NbH9Tx8ZqfWp3ZeSN9NsRoPVAc)
+- [Google Disk](https://drive.google.com/drive/u/0/folders/1VdIJ58NbH9Tx8ZqfWp3ZeSN9NsRoPVAc)
 
 ## Ключевые моменты
 - Что такое XML 

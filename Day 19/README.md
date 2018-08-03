@@ -4,3 +4,4 @@
 ## Материалы (презентация)
 - [M12. Internal device types in .NET Framework. Resource management](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M12.%20Internal%20device%20types%20in%20.NET%20Framework.%20Resource%20management)
 - [Google Disk](https://drive.google.com/drive/u/0/folders/1iD3V_UMsCqjX7Bch4I4wmEoJur1mK77l)
+- [Google Disk. Advanced topic](https://drive.google.com/drive/u/0/folders/1ZsbnBMLUx8lg1eUPAnNhRZZpR-F-RrDa)
